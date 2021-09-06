@@ -20,9 +20,9 @@ The purpose of this project is to analyze and classify the success of charitable
 
  
 
-## Compiling, Training and Evaluating the Model
+## Compiling Training and Evaluating the Model
 
-    	O  For my neural network model I had 2 hidden layers. My first layer had 80 neurons, the second has 30 there is also an output layer. 
+    	o For my neural network model I had 2 hidden layers. My first layer had 80 neurons, the second has 30 there is also an output layer. 
 	  The first and second hidden layer have the "relu" activation function and the activation function for the output layer is "sigmoid."
 
 	o Were you able to achieve the target model performance?
