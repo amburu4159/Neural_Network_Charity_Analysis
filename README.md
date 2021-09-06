@@ -27,7 +27,7 @@ The purpose of this project is to analyze and classify the success of charitable
 
 	o Were you able to achieve the target model performance?
  	  The model was not able to reach the target 75%. The accuracy for my model was 72%.
-	  ![perfomance_model_1]()
+	  ![perfomance_model_1](https://github.com/amburu4159/Neural_Network_Charity_Analysis/blob/main/images/model_perfomance_1.PNG)
 
 	o Steps taken to try and increase model performance
 	 I applied bucketing to the feature ASK_AMT and organized the different values by intervals.
