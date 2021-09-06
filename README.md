@@ -23,6 +23,7 @@ The purpose of this project is to analyze and classify the success of charitable
 ## Compiling Training and Evaluating the Model
 
 o For my neural network model I had 2 hidden layers. My first layer had 80 neurons, the second has 30 there is also an output layer. 
+
 	  The first and second hidden layer have the "relu" activation function and the activation function for the output layer is "sigmoid."
 
 o Were you able to achieve the target model performance?
@@ -30,6 +31,7 @@ o Were you able to achieve the target model performance?
 ![perfomance_model_1](https://github.com/amburu4159/Neural_Network_Charity_Analysis/blob/main/images/model_perfomance_1.PNG)
 
 o Steps taken to try and increase model performance
+
 	 I applied bucketing to the feature ASK_AMT and organized the different values by intervals.
 	 Then increased the number of neurons on one of the hidden layers, then we used a model with three hidden layers.
 	 Also tried a different activation function (tanh) but none of these steps seemed to help improve the performance of the model
