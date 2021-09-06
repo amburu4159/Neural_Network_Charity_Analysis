@@ -27,6 +27,7 @@ o For my neural network model I had 2 hidden layers. My first layer had 80 neuro
 	  The first and second hidden layer have the "relu" activation function and the activation function for the output layer is "sigmoid."
 
 o Were you able to achieve the target model performance?
+
  	  The model was not able to reach the target 75%. The accuracy for my model was 72%.
 ![perfomance_model_1](https://github.com/amburu4159/Neural_Network_Charity_Analysis/blob/main/images/model_perfomance_1.PNG)
 
