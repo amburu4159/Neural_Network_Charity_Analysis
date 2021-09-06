@@ -28,7 +28,7 @@ o For my neural network model I had 2 hidden layers. My first layer had 80 neuro
 
 o Were you able to achieve the target model performance?
 
- 	  The model was not able to reach the target 75%. The accuracy for my model was 72%.
+ 	  The model was not able to reach the target 75%. The accuracy for my model was 72% as seen in the screeshot below
 ![perfomance_model_1](https://github.com/amburu4159/Neural_Network_Charity_Analysis/blob/main/images/model_perfomance_1.PNG)
 
 o Steps taken to try and increase model performance
